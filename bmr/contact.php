@@ -61,19 +61,19 @@
 	               			<div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
 	               				<ul class="nav navbar-nav navbar-right">
 	                  				<li class>
-					                    <a class="page-scroll" href="index.html">HOME</a>
+					                    <a class="page-scroll" href="index.php">HOME</a>
 					                </li>
 					                <li>
-					                    <a href="baja.html">BAJA</a>
+					                    <a href="baja.php">BAJA</a>
 					                </li>
 	                  				<li>
-	                    				<a href="team.html">TEAM</a>
+	                    				<a href="team.php">TEAM</a>
 	                  				</li>
 	                  				<li>
-	                    				<a href="sponsors.html">SPONSORS</a>
+	                    				<a href="sponsors.php">SPONSORS</a>
 	                  				</li>
-	                  				<li ="active">
-	                   					<a href="contact.html">CONTACT</a>
+	                  				<li class="active">
+	                   					<a href="contact.php">CONTACT</a>
 	                  				</li>
 	                            </ul>
 	              			</div>
@@ -109,10 +109,7 @@
                 					<p>
 					                  Call:<br>Shivam Ray : +91-7077644422<br>
 												Dushyant : +91-7377273489<br>
-												Akshat : +91-9437731406<br>
-                        Faculty Advisors: Dr.S. Gangopapadhyay <br>
-                        Team Captain: Shivam Rai<br>
-                        Team Vice-captain: Rahul Kumar Sah<br>
+												
                         </p>
                  			</div>
             				</div>
@@ -123,8 +120,7 @@
                 					<i class="fa fa-envelope-o"></i>
 	                				<p><br>
 	                  					Email: bmr.nitrkl@gmail.com<br>
-	                  					<span>Web: https://bmrnitrkl.com</span>
-	                				</p>
+	                  			</p>
               					</div>
             				</div>
           				</div>
@@ -186,89 +182,9 @@
   		</div>
   	</div>
   	<br><br>
-<footer>
-    <div class="footer-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="footer-content">
-              <div class="footer-head">
-                <div class="footer-logo">
-                  <h2><strong>BAJA</strong></h2>
-                </div>
-
-                <p>Organized by the society of automotive engineers (SAE), BAJA SAE is an intercolligative design competition organized for students from universities all across the globe where the participants are required to design and build off road cars that can withstand extreme working environments</p>
-                <div class="footer-icons">
-                  <ul>
-                    <li>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa fa-twitter"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa fa-google"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa fa-pinterest"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- end single footer -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="footer-content">
-              <div class="footer-head">
-                <h2><strong>Information</strong></h2>
-                <div class="footer-contacts">
-                  <p>Faculty Advisors: Dr.S. Gangopapadhyay <br>
-          Team Captain: Shivam Rai<br>
-          Team Vice-captain: Rahul Kumar Sah
-          </p>
-                  <p><span>Tel:</span>Shivam Ray : +91-7077644422</p>
-                  <p><span>Email:</span> bmr.nitrkl@gmail.com</p>                  
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- end single footer -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="footer-content">
-              <div class="footer-head">
-                <h2><strong>CARS</strong></h2>
-                <div class="flicker-img">
-                  <a href="#"><img src="img/1.jpg" alt=""></a>
-                  <a href="#"><img src="img/2.jpg" alt=""></a>
-                  <a href="#"><img src="img/3.jpg" alt=""></a>
-                  <a href="#"><img src="img/4.jpg" alt=""></a>
-                  <a href="#"><img src="img/7.jpg" alt=""></a>
-                  <a href="#"><img src="img/8.png" alt=""></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="footer-area-bottom">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 col-sm-12 col-xs-12">
-            <div class="copyright text-center">
-              <p>
-                &copy; Copyright <strong>Blackbamba</strong>. All Rights Reserved
-              </p>
-            </div>
-            <div class="credits">
-              Designed by <a href="https://bootstrapmade.com/">Web Designing Team| NITR</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer>
+     <?php 
+        include_once 'footer.php';
+        ?>
   <!-- JavaScript Libraries -->
 	  <script src="lib/jquery/jquery.min.js"></script>
 	  <script src="lib/bootstrap/js/bootstrap.min.js"></script>

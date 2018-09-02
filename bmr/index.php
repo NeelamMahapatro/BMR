@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -67,16 +68,16 @@
 					                    <a class="page-scroll" href="#home">HOME</a>
 					                </li>
 					                <li>
-					                    <a href="baja.html">BAJA</a>
+					                    <a href="baja.php">BAJA</a>
 					                </li>
 	                  				<li>
-	                    				<a href="team.html">TEAM</a>
+	                    				<a href="team.php">TEAM</a>
 	                  				</li>
 	                  				<li>
-	                    				<a href="sponsors.html">SPONSORS</a>
+	                    				<a href="sponsors.php">SPONSORS</a>
 	                  				</li>
 	                  				<li>
-	                   					<a href="contact.html">CONTACT</a>
+	                   					<a href="contact.php">CONTACT</a>
 	                  				</li>
 	                            </ul>
 	              			</div>
@@ -88,10 +89,10 @@
 	    </div>
 	    <!-- header-area end -->
   	</header>
+   <div style="padding-top: 70px;">
   	<div class="slider-area" >
-  		<br><br><br>
-    	<div class="bend niceties preview-2">
-      		<div id="ensign-nivoslider" class="slides">
+    	<div class="bend niceties preview-2" >
+      		<div id="ensign-nivoslider" class="slides" >
         		<img src="img/bmr0001.jpg" height="470px" width="1100px"alt="" title="#slider-direction-1" />
         		<img src="img/bmr4.jpg" alt="" height="470px" width="1100px" title="#slider-direction-2" />
         		<img src="img/bmr005.jpg" alt="" height="470px" width="1100px" title="#slider-direction-3" />
@@ -206,7 +207,7 @@
               <a href="#">
                 <cemter><h3 class="sec-head">Blackbamba Racing</h3></center>
               </a>
-              <p>
+              <p style="text-align:justify;">
                 <strong>“A dream doesn’t become reality through magic; it takes sweat,determination and hardwork.”</strong> An implementation of this statement is Black Mamba Racing.NIT Rourkela has a club of those techies whose adrenaline rages when they come across speeding vehicles and works all day and night to explore and evolve them.Comparing the status; it has been observed that the team has continuously being raising up. Journey of getting 15th rank all over the country in 2010 to 4th rank in 2016 had never been easy. Infact till now our team is able to ensure a good position in both technical and business aspect amongst hundreds of nationally qualified teams in BAJA SAE INDIA. A team run by its dedicated, diligent members and well experienced mentors are now ready to start its new venture of 2018 with lots more new advanced and expansive technology.
               </p>
               <ul>
@@ -245,8 +246,8 @@
                 				<div class="single-services">
                   
 				                  <h2><strong>Management</strong> </h2>
-				                  <p><center>
-				                    This sub-division consists of the following sub-systems-</center><br><b><center>PUBLIC RELATION AND MARKETING :</b> Finding of sponsors (both monetary and in-kind) by making association with many leading industries and local and regional companies, also building relation with the institute alumni.</center><br><center><b>MEDIA COVERAGE :</b> Extensive media coverage is done through different social medias such as Facebook, instagram, twitter, YouTube, etc.</center><br><center><b>PROMOTION :</b> Promotion through “Turbo-Byte”-the annual magazine of SAE and “Monday-Morning”-the official media body of NIT, Rourkela.</center>
+				                  <p style="text-align:justify; line-height:1.8;">
+				                    This sub-division consists of the following sub-systems-<b>PUBLIC RELATION AND MARKETING :</b> Finding of sponsors (both monetary and in-kind) by making association with many leading industries and local and regional companies, also building relation with the institute alumni.<b>MEDIA COVERAGE :</b> Extensive media coverage is done through different social medias such as Facebook, instagram, twitter, YouTube, etc.<b>PROMOTION :</b> Promotion through “Turbo-Byte”-the annual magazine of SAE and “Monday-Morning”-the official media body of NIT, Rourkela.
 				                  </p>
                 				</div>
               				</div>
@@ -258,8 +259,8 @@
                 				<div class="single-services">
                   
 				                  <h2><strong>Manufacturing</strong></h2>
-				                  <p><center>
-				                    Manufacturing system consists of-</center><br><center><b>ROLL CAGE :</b> This team design and construct the driver compartment so as to reduce fatigue and impact of shock loads.</center><br><center><b>CHASSIS :</b>  Formation of underpart of the ATV consisting of the frame on which the whole body is mounted.</center><br><center><b>BRAKING :</b>  The team endeavour to accomplish proper slowing and stopping of the vehicle by means of friction.</center><br><center><b>STEERING :</b> Manufacturing of steering wheels and the group parts transmitting movement of steering wheel to the front wheels.</center><br><center><b>SUSPENSION :</b> The team fabricate the tires, springs, shock absorbers and linkages that connects the vehicle to its wheels.</center><br><center><b>POWERTRAIN :</b> This subsystem includes the design and manufacturing of the gearbox and the cooling system of the car.</center>
+				                  <p style="text-align:justify; line-height:1.8;">
+				                    Manufacturing system consists of-<b>ROLL CAGE :</b> This team design and construct the driver compartment so as to reduce fatigue and impact of shock loads.<b>CHASSIS :</b>  Formation of underpart of the ATV consisting of the frame on which the whole body is mounted.<b>BRAKING :</b>  The team endeavour to accomplish proper slowing and stopping of the vehicle by means of friction.<b>STEERING :</b> Manufacturing of steering wheels and the group parts transmitting movement of steering wheel to the front wheels.<b>SUSPENSION :</b> The team fabricate the tires, springs, shock absorbers and linkages that connects the vehicle to its wheels.<b>POWERTRAIN :</b> This subsystem includes the design and manufacturing of the gearbox and the cooling system of the car.
 				                  </p>
                 				</div>
               				</div>
@@ -272,8 +273,8 @@
                 				<div class="single-services">
                   
 				                  <h2><strong>Design</strong></h2>
-				                  <p><center>
-				                    The Organizational division consists of 3 sub-systems:</center><br><center><b>WEB DESIGNING :</b> Complete designing of the website carrying all the information about the team “ BLACK MAMBA RACING” and the national level event “BAJA SAE” in which the team participates every year is the major work of this system.</center><br><center><b>GRAPHIC Designing :</b> This team is responsible for designing of brochures, yearly newsletters, posters, etc. which are required for better publicity of the team.</center><br><center><b>VIDEO MAKING & EDITING :</b> Making of new videos of different tests like braking, endurance, suspension, etc.  that the vehicle undergoes so that the team could get attention in different social medias and editing of previous year designs is taken care of in this subsystem.</center>
+				                  <p style="text-align:justify; line-height:1.8;">
+				                    The Organizational division consists of 3 sub-systems:<b>WEB DESIGNING :</b> Complete designing of the website carrying all the information about the team “ BLACK MAMBA RACING” and the national level event “BAJA SAE” in which the team participates every year is the major work of this system.<b>GRAPHIC Designing :</b> This team is responsible for designing of brochures, yearly newsletters, posters, etc. which are required for better publicity of the team.<b>VIDEO MAKING & EDITING :</b> Making of new videos of different tests like braking, endurance, suspension, etc.  that the vehicle undergoes so that the team could get attention in different social medias and editing of previous year designs is taken care of in this subsystem.
 				                  </p>
                 				</div>
               				</div>
@@ -284,95 +285,9 @@
         </div>
     </div>
     
- <footer>
-    <div class="footer-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="footer-content">
-              <div class="footer-head">
-                <div class="footer-logo">
-                  <h2><strong>BAJA</strong></h2>
-                </div>
-
-                <p>Organized by the society of automotive engineers (SAE), BAJA SAE is an intercolligative design competition organized for students from universities all across the globe where the participants are required to design and build off road cars that can withstand extreme working environments</p>
-                <div class="footer-icons">
-                  <ul>
-                    <li>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa fa-twitter"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa fa-google"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa fa-pinterest"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- end single footer -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="footer-content">
-              <div class="footer-head">
-                <h2><strong>Information</strong></h2>
-                <div class="footer-contacts">
-                	<p>Faculty Advisors: Dr.S. Gangopapadhyay	<br>
-					Team Captain: Shivam Rai<br>
-					Team Vice-captain: Rahul Kumar Sah
-					</p>
-                  <p><span>Tel:</span>Shivam Ray : +91-7077644422</p>
-                  <p><span>Email:</span> bmr.nitrkl@gmail.com</p>                  
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- end single footer -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="footer-content">
-              <div class="footer-head">
-                <h2><strong>CARS</strong></h2>
-                <div class="flicker-img">
-                  <a href="#"><img src="img/1.jpg" alt=""></a>
-                  <a href="#"><img src="img/2.jpg" alt=""></a>
-                  <a href="#"><img src="img/3.jpg" alt=""></a>
-                  <a href="#"><img src="img/4.jpg" alt=""></a>
-                  <a href="#"><img src="img/7.jpg" alt=""></a>
-                  <a href="#"><img src="img/8.png" alt=""></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="footer-area-bottom">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 col-sm-12 col-xs-12">
-            <div class="copyright text-center">
-              <p>
-                &copy; Copyright <strong>Blackbamba</strong>. All Rights Reserved
-              </p>
-            </div>
-            <div class="credits">
-              <!--
-                All the links in the footer should remain intact.
-                You can delete the links only if you purchased the pro version.
-                Licensing information: https://bootstrapmade.com/license/
-                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
-              -->
-              Designed by <a href="https://bootstrapmade.com/">Web Designing Team| NITR</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer>
+ <?php 
+        include_once 'footer.php';
+        ?>
   	  <!-- JavaScript Libraries -->
   <script src="lib/jquery/jquery.min.js"></script>
   <script src="lib/bootstrap/js/bootstrap.min.js"></script>
