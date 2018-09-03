@@ -93,8 +93,8 @@
   	<div class="slider-area" >
     	<div class="bend niceties preview-2" >
       		<div id="ensign-nivoslider" class="slides" >
-        		<img src="img/bmr0001.jpg" height="470px" width="1100px"alt="" title="#slider-direction-1" />
-        		<img src="img/bmr4.jpg" alt="" height="470px" width="1100px" title="#slider-direction-2" />
+        		<img src="img/bmr4.jpg" height="470px" width="1100px"alt="" title="#slider-direction-1" />
+        		<img src="img/bmr0001.jpg" alt="" height="470px" width="1100px" title="#slider-direction-2" />
         		<img src="img/bmr005.jpg" alt="" height="470px" width="1100px" title="#slider-direction-3" />
         		<img src="img/bmr06.jpg" alt="" height="470px" width="1100px" title="#slider-direction-4" />
       		</div>
@@ -107,11 +107,11 @@
               				<div class="slider-content">
                 				<!-- layer 1 -->
 	                			<div class="layer-1-1 hidden-xs wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-	                 				<h2 class="title1">The Best Business Information </h2>
+	                 				<h2 class="title1"> Moving Towards Glory </h2>
 	                			</div>
                 				<!-- layer 2 -->
 	                			<div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-	                 				<h1 class="title2">We're In The Business Of Helping You Start Your Business</h1>
+	                 				<h1 class="title2">Putting in a year of hardwork on the race track and beating the dirt.</h1>
 	                			</div>               	     			
                 			</div>
             			</div>
@@ -126,11 +126,11 @@
               				<div class="slider-content text-center">
                				 <!-- layer 1 -->
 	                			<div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-	                    			<h2 class="title1">The Best Business Information </h2>
+	                    			<h2 class="title1"> Optimizing Through Discussions </h2>
 	                			</div>
                 			<!-- layer 2 -->
 	                			<div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-	                    			<h1 class="title2">We're In The Business Of Get Quality Business Service</h1>
+	                    			<h1 class="title2">Improving each and every aspect of designing and manufacturing.</h1>
 	                			</div>
                 			<!-- layer 3 -->
                 	    	</div>
@@ -147,11 +147,11 @@
               				<div class="slider-content">
                				 <!-- layer 1 -->
 	                			<div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-	                  				<h2 class="title1">The Best business Information </h2>
+	                  				<h2 class="title1">Grinding It Out</h2>
 	                			</div>
                 			<!-- layer 2 -->
 	                			<div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-	                  				<h1 class="title2">Helping Business Security  & Peace of Mind for Your Family</h1>
+	                  				<h1 class="title2">Seeing the result of the long hours put in at the Central Workshop; the tireless night tales.</h1>
 	                			</div>
                         	</div>
             			</div>
@@ -164,13 +164,13 @@
          			<div class="row">
             			<div class="col-md-12 col-sm-12 col-xs-12">
               				<div class="slider-content">
-                				 layer 1 
+                				 
 	                			<div class="layer-1-1 hidden-xs wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-	                 				<h2 class="title1">The Best Business Information </h2>
+	                 				<h2 class="title1">Publicisng As To Why We Are The Best.</h2>
 	                			</div>
-	                				layer 2 
+	                				
 	                			<div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-	                 				<h1 class="title2">We're In The Business Of Helping You Start Your Business</h1>
+	                 				<h1 class="title2">Apart from doing well in technical events, Mamba roars in sales and cost events as well, providing a sense of completeness.</h1>
 	                			</div>               	     			
                 			</div>
             			</div>
@@ -247,7 +247,7 @@
                   
 				                  <h2><strong>Management</strong> </h2>
 				                  <p style="text-align:justify; line-height:1.8;">
-				                    This sub-division consists of the following sub-systems-<b>PUBLIC RELATION AND MARKETING :</b> Finding of sponsors (both monetary and in-kind) by making association with many leading industries and local and regional companies, also building relation with the institute alumni.<b>MEDIA COVERAGE :</b> Extensive media coverage is done through different social medias such as Facebook, instagram, twitter, YouTube, etc.<b>PROMOTION :</b> Promotion through “Turbo-Byte”-the annual magazine of SAE and “Monday-Morning”-the official media body of NIT, Rourkela.
+				                    This sub-division consists of the following sub-systems-<br><b>PUBLIC RELATION AND MARKETING :</b> Finding of sponsors (both monetary and in-kind) by making association with many leading industries and local and regional companies, also building relation with the institute alumni.<br><b>MEDIA COVERAGE :</b> Extensive media coverage is done through different social medias such as Facebook, Instagram, Twitter, YouTube, etc. The BAJA SAE India final competition held has extensive coverage from both the national and international media. The event serves as a cornerstone for all the budding entrepreneurs and engineers as the best around the world provide frutiful suggestions about their work.<br><b>PROMOTION :</b> Promotion through “Turbo-Byte”-the annual magazine of SAE and “Monday-Morning”-the official media body of NIT, Rourkela. Apart from these two media bodies, extensive media coverage is done during Innovision and NITRUTSAV.
 				                  </p>
                 				</div>
               				</div>
@@ -260,7 +260,7 @@
                   
 				                  <h2><strong>Manufacturing</strong></h2>
 				                  <p style="text-align:justify; line-height:1.8;">
-				                    Manufacturing system consists of-<b>ROLL CAGE :</b> This team design and construct the driver compartment so as to reduce fatigue and impact of shock loads.<b>CHASSIS :</b>  Formation of underpart of the ATV consisting of the frame on which the whole body is mounted.<b>BRAKING :</b>  The team endeavour to accomplish proper slowing and stopping of the vehicle by means of friction.<b>STEERING :</b> Manufacturing of steering wheels and the group parts transmitting movement of steering wheel to the front wheels.<b>SUSPENSION :</b> The team fabricate the tires, springs, shock absorbers and linkages that connects the vehicle to its wheels.<b>POWERTRAIN :</b> This subsystem includes the design and manufacturing of the gearbox and the cooling system of the car.
+				                    Manufacturing system consists of-<br><b>ROLL CAGE :</b> This team design and construct the driver compartment so as to reduce fatigue and impact of shock loads.<br><b>CHASSIS :</b>  Formation of underpart of the ATV consisting of the frame on which the whole body is mounted.<br><b>BRAKING :</b>  The team endeavour to accomplish proper slowing and stopping of the vehicle by means of friction.<br><b>STEERING :</b> Manufacturing of steering wheels and the group parts transmitting movement of steering wheel to the front wheels.<br><b>SUSPENSION :</b> The team fabricate the tires, springs, shock absorbers and linkages that connects the vehicle to its wheels.<br><b>POWERTRAIN :</b> This subsystem includes the design and manufacturing of the gearbox and the cooling system of the car.
 				                  </p>
                 				</div>
               				</div>
@@ -274,7 +274,7 @@
                   
 				                  <h2><strong>Design</strong></h2>
 				                  <p style="text-align:justify; line-height:1.8;">
-				                    The Organizational division consists of 3 sub-systems:<b>WEB DESIGNING :</b> Complete designing of the website carrying all the information about the team “ BLACK MAMBA RACING” and the national level event “BAJA SAE” in which the team participates every year is the major work of this system.<b>GRAPHIC Designing :</b> This team is responsible for designing of brochures, yearly newsletters, posters, etc. which are required for better publicity of the team.<b>VIDEO MAKING & EDITING :</b> Making of new videos of different tests like braking, endurance, suspension, etc.  that the vehicle undergoes so that the team could get attention in different social medias and editing of previous year designs is taken care of in this subsystem.
+				                    The Organizational division consists of 3 sub-systems:<br><b>WEB DESIGNING :</b> Complete designing of the website carrying all the information about the team “ BLACK MAMBA RACING” and the national level event “BAJA SAE” in which the team participates every year is the major work of this system. The team's website is powered by Cyborg, the official automation and robotics club of NIT Rourkela.<br><b>GRAPHIC Designing :</b> This team is responsible for designing of brochures, yearly newsletters, posters, etc. which are required for better publicity of the team. The team also designs posters on various festivals which are circulated on social media.<br><b>VIDEO MAKING & EDITING :</b> Making of new videos of different tests like braking, endurance, suspension, etc.  that the vehicle undergoes so that the team could get attention in different social medias and editing of previous year designs is taken care of in this subsystem.
 				                  </p>
                 				</div>
               				</div>
@@ -285,9 +285,7 @@
         </div>
     </div>
     
- <?php 
-        include_once 'footer.php';
-        ?>
+
   	  <!-- JavaScript Libraries -->
   <script src="lib/jquery/jquery.min.js"></script>
   <script src="lib/bootstrap/js/bootstrap.min.js"></script>
@@ -307,7 +305,9 @@
 
   <script src="js/main.js"></script>
 
-
+ <?php 
+        include_once 'footer.php';
+        ?>
 
 </body>
 </html>
