@@ -40,9 +40,9 @@
               <div class="footer-head">
                 <h3><strong>Information</strong></h3>
                 <div class="footer-contacts">
-                	<p>Faculty Advisors: Dr.S. Gangopapadhyay	<br>
-					Team Captain: Shivam Rai<br>
-					Team Vice-captain: Rahul Kumar Sah
+                	<p>Faculty Advisors: Prof. Tarapada Roy	<br>
+					Team Captain: Ravi Narayan Shah<br>
+					Team Vice-captain: Akshat Sambodhi
 					</p>
                   <p><i class="fa fa-phone" aria-hidden="true"></i>  : Shivam Ray : +91-7077644422</p>
                   <p><i class="fa fa-envelope"></i> :  <a href="mailto:bmr.nitrkl@gmail.com">bmr.nitrkl@gmail.com</a></p>                  

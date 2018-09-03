@@ -33,6 +33,8 @@
 
   <!-- Responsive Stylesheet File -->
   <link href="css/responsive.css" rel="stylesheet">
+  
+  
 
  </head>
  <body>
@@ -93,8 +95,7 @@
       			<div class="container ">
         			<div class="row">
           				<div class="col-md-12 col-sm-12 col-xs-12">
-            				<div class="section-headline text-center">
-	            				<br><br>
+            				<div class="section-headline text-center">	            				
 				                <h2>Contact us</h2><br>
 				                <h3>Get in touch with us for any queries</h3><br><br>
 			           		</div>
@@ -107,8 +108,10 @@
              					<div class="single-icon">
                 					<i class="fa fa-mobile"></i>
                 					<p>
-					                  Call:<br>Shivam Ray : +91-7077644422<br>
-												Dushyant : +91-7377273489<br>
+									<br>
+									  <strong>Team Captain</strong> <br> Ravi Narayan Shah : +91-7540961716<br>
+									  <strong>Head, Public Relations</strong> <br> Debasis Choudhury : +91-9937682188
+												
 												
                         </p>
                  			</div>
@@ -119,7 +122,7 @@
               					<div class="single-icon">
                 					<i class="fa fa-envelope-o"></i>
 	                				<p><br>
-	                  					Email: bmr.nitrkl@gmail.com<br>
+	                  					<a href="mailto:bmr.nitrkl@gmail.com">bmr.nitrkl@gmail.com</a><br>
 	                  			</p>
               					</div>
             				</div>
@@ -130,7 +133,7 @@
              					<div class="single-icon">
                 					<i class="fa fa-map-marker"></i>
                 					<p><br>
-					                  Location: Black Mamba Racing Team
+					                  Black Mamba Racing Team
 										SAE Club<br>
 										NIT Rourkela, Rourkela<br>
 										<span>Odisha - 769008, INDIA</span><br>
@@ -143,7 +146,7 @@
                         <!-- Start Google Map -->
 				        <div class="col-md-6 col-sm-6 col-xs-12">
 				            <!-- Start Map -->
-				            <div id="google-map" data-latitude="40.713732" data-longitude="-74.0092704"></div>
+				            <div id="google-map" data-latitude="22.2526052" data-longitude="84.9008092"></div>
 				            <!-- End Map -->
 				        </div>
 				          <!-- End Google Map -->
@@ -153,7 +156,7 @@
                       		<div class="form contact-form">
 					            <div id="sendmessage">Your message has been sent. Thank you!</div>
 					            <div id="errormessage"></div>
-              					<center><h3>Mail Us: -</h3></center><br>
+              					
 				              <form action="" method="post" role="form" class="contactForm">
 				                <div class="form-group">
 				                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
@@ -182,9 +185,7 @@
   		</div>
   	</div>
   	<br><br>
-     <?php 
-        include_once 'footer.php';
-        ?>
+    
   <!-- JavaScript Libraries -->
 	  <script src="lib/jquery/jquery.min.js"></script>
 	  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
@@ -203,5 +204,13 @@
 	  <script src="contactform/contactform.js"></script>
 
 	  <script src="js/main.js"></script>
+	  
+	  
+
+	  <?php 
+        include_once 'footer.php';
+        ?>
+		
 </body>
+
 </html>
