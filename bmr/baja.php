@@ -86,10 +86,10 @@
 	    <!-- header-area end -->
   	</header>
     <div class="container">
-         <img src="img/bmr061.jpg" style="width: 100%; height:20%; padding-top:70px;">
+         <img src="img/baja.jpg" style="width: 100%; height:20%; padding-top:70px;">
     </div>
   	<br>
-  	<div id="portfolio" class="portfolio-area area-padding fix">
+  	<div id="portfolio" class="portfolio-area ">
     	<div class="container">
           <div class="row">
           		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -288,9 +288,7 @@
   <!-- awesome-portfolio end -->
 
 	<br><br>
-  <?php 
-        include_once 'footer.php';
-        ?>
+  
 	  <script src="lib/jquery/jquery.min.js"></script>
 	  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
 	  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
@@ -308,6 +306,8 @@
 	  <script src="contactform/contactform.js"></script>
 
 	  <script src="js/main.js"></script>
-
+	<?php 
+        include_once 'footer.php';
+        ?>
 </body>
 </html>

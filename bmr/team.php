@@ -959,9 +959,7 @@
     	</div>
 	</div>
 	<br><br>
-  	  <?php 
-        include_once 'footer.php';
-        ?>
+  	  
 	  <script src="lib/jquery/jquery.min.js"></script>
 	  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
 	  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
@@ -979,6 +977,8 @@
 	  <script src="contactform/contactform.js"></script>
 
 	  <script src="js/main.js"></script>
-
+	<?php 
+        include_once 'footer.php';
+        ?>
 </body>
 </html>
