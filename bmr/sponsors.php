@@ -95,21 +95,43 @@
           			</div>
               </div>
            </div>
-          	<br><br>
+          	
           	<div class="row">
-          	    <center><h3 style="padding left: 30px;">Message to sposors</h3></center>
+          	    <center><h3 style="padding left: 30px;">Message to sponsors</h3></center>
           		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
           		<br>
           			<p class ="text-center" style="text-align: justify; line-height:2;">The entire journey of IIT Bombay Racing 2016-2018 started from July'16 with the formation of the team and ideation, followed by designing, planning, manufacturing and testing phases. Once our Car is all set and running, we will be representing India in the Formula Student UK '18 in July.<br><br>This journey is possible only because of the regular Monetary and Technical support off all our sponsors and Industry collaborations. But since the success of the team at FS UK is directly co-related to the budget of the entire project, the bigger the sponsorship, the better the results we hope to bring for the nation.<br><br>We believe in offering exclusivity to our sponsors, and hence rather than having various different associations, we have a selected few. We offer a wide variety of on-ground and digital events at both national and International platforms to publicize our sponsors. Kindly have a look at the team brochure and events timeline to get the details of where you can fit in perfectly with our team till July '16 and further.<br><span id="sponsormessagelooking">Looking forward to your support</span></p>
         		</div>
       		</div>
+			<div class="row">
+        		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+          			<div class="section-headline text-center">
+            			<h2>OUR PREVIOUS SPONSORS</h2>
+          			</div>
+              </div>
+           </div>
       		<br>
+      			
+      		<div class="row">
+      			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
+      			<img src="img/sponsors/castrol.jpg"></img>
+      			</div>
+      			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
+      			<img src="img/sponsors/gridco.jpg"></img>
+      			</div>
+      			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
+      			<img src="img/sponsors/emitec.jpg"></img>
+      			</div>
+      			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
+      			<img src="img/sponsors/fox.jpg"></img>
+      			</div>
+      		</div>
       			<br>
       		<br><br>
       		<br>
-      		<div class="row">
+			<div class="row">
       			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
-      			<img src="img/sponsors/ansys.jpg"></img>
+      			<img src="img/sponsors/ansys.png"></img>
       			</div>
       			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
       			<img src="img/sponsors/arai.jpg"></img>
@@ -122,31 +144,16 @@
       			</div>
       			
       		</div>
-      			<br>
-      		<br><br>
-      		<br>
-      		<div class="row">
-      			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
-      			<img src="img/sponsors/castrol.jpg"></img>
-      			</div>
-      			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
-      			<img src="img/sponsors/cneplex.jpg"></img>
-      			</div>
-      			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
-      			<img src="img/sponsors/emitec.jpg"></img>
-      			</div>
-      			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
-      			<img src="img/sponsors/fox.jpg"></img>
-      			</div>
-      		</div>
+      		
       		<br>
       		<br>
   
   			<br>
       		<br>
       		<div class="row">
-      			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
-      			<img src="img/sponsors/gridco.jpg"></img>
+      			
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
+      			<img src="img/sponsors/speed.jpg"></img>
       			</div>
       			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
       			<img src="img/sponsors/imfa.jpg"></img>
@@ -169,8 +176,9 @@
       			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
       			<img src="img/sponsors/sbi.jpg"></img>
       			</div>
-      			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
-      			<img src="img/sponsors/speed.jpg"></img>
+      			
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
+      			<img src="img/sponsors/cneplex.jpg"></img>
       			</div>
       			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
       			<img src="img/sponsors/vedanta.jpg"></img>
@@ -184,9 +192,7 @@
   <!-- awesome-portfolio end -->
 
 	<br><br>
-  	<?php 
-        include_once 'footer.php';
-        ?>
+  	
 	  <script src="lib/jquery/jquery.min.js"></script>
 	  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
 	  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
@@ -204,6 +210,8 @@
 	  <script src="contactform/contactform.js"></script>
 
 	  <script src="js/main.js"></script>
-
+	<?php 
+        include_once 'footer.php';
+        ?>
 </body>
 </html>
