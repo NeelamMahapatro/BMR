@@ -86,7 +86,7 @@
 	    <!-- header-area end -->
   	</header>
     <div class="container">
-         <img src="img/baja.jpg" style="width: 100%; height:20%; padding-top:70px;">
+         <img src="img/baja.jpg" style="width: 100%; height:20%; padding-top:10vh;">
     </div>
   	<br>
   	<div id="portfolio" class="portfolio-area ">
@@ -101,15 +101,15 @@
               </div>
             </div>
           
-          	<br><br>
+          	<br>
           	<div class="row">
           		<div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
           		<br>
           			<p class ="text-center" style="text-align: justify; line-height:2;">Organized by the society of automotive engineers (SAE), BAJA SAE is an intercolligative design competition organized for students from universities all across the globe where the participants are required to design and build off road cars that can withstand extreme working environments. The competition aims to bring the brightest minds in the engineer domain under one roof so that significant contributions can be made by each team that can actually be put to industrial uses.The competition specifies a particular standard of rule and regulations set by the SAE, which has to be accurately met by each participating team. Countries including US, India, China, Brazil, South Africa and South Korea participate in this competition to make this event a success year by year.</p>
         		</div>
         		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-        			<h3 style:" color: #428bca;    text-transform: uppercase;    font-size: 18px;">Five continents</h3>
-					<ul style:"padding-left: 20px;    text-indent: 2px;    list-style: none;    list-style-position: outside;">
+        			<h3 style=" color: #428bca;    text-transform: uppercase;    font-size: 18px;">Six Countries</h3>
+					<ul style="padding-left: 20px;    text-indent: 2px;    list-style: none;    list-style-position: outside;">
 						<li style=" margin: 4px 0px;    text-transform: uppercase;">&#9830; US</li>
 						<li style=" margin: 4px 0px;    text-transform: uppercase;">&#9830; INDIA</li>
 	                    <li style=" margin: 4px 0px;    text-transform: uppercase;">&#9830; CHINA</li>
@@ -119,16 +119,17 @@
 					</ul>
         		</div>
       		</div>
-      		<br><br>
+      		<br>
       		<div class="row">
         	<!-- Start Portfolio -page -->
-        	    <h3 style="color:blue;"><strong>STATIC EVENTS</strong></h3>
+        	    <center><h3><strong>STATIC EVENTS</strong></h3></center>
+				<br>
        		    <div class="awesome-project-content">
           			<!-- single-awesome-project start -->
           			<div class="col-md-4 col-sm-4 col-xs-12 design development">
             			<div class="single-awesome-project">
               				<div class="awesome-img">
-                				<a href="#"><img src="img/2.jpg" alt="" style="max-width: 100%;  max-height: 300px;"/></a>
+                				<a href="#"><img src="img/technical.jpg" alt="" style="max-width: 100%;  max-height: 300px;"/></a>
                 				<div class="add-actions text-center">
                   					<div class="project-dec">
                     					<a class="venobox" href="img/2.jpg">    
@@ -138,7 +139,7 @@
                 				</div>
               				</div>
               				<br>
-              				<h3><strong>Technical Inspection</strong></h3> <br>
+              				<center><h4><strong>Technical Inspection</strong></h4> </center><br>
               				<p style="text-align: justify;line-height:2;">All vehicles competing in the race must pass through Tech Inspection. The vehicles are checked by inspectors to make sure that teams adhere to the rules and safety standards set by SAE. The rules are given in the rulebook ewhich gets updated every year.</p>
             			</div>
           			</div>
@@ -147,7 +148,7 @@
           			<div class="col-md-4 col-sm-4 col-xs-12 design development">
             			<div class="single-awesome-project">
               				<div class="awesome-img">
-                				<a href="#"><img src="img/1.jpg" alt="" style="max-width: 100%;  max-height: 300px;"/></a>
+                				<a href="#"><img src="img/cost.jpg" alt="" style="max-width: 100%;  max-height: 300px;"/></a>
                 				<div class="add-actions text-center">
                   					<div class="project-dec">
                     					<a class="venobox" href="img/1.jpg">    
@@ -157,7 +158,7 @@
                 				</div>
               				</div>
               				<br>
-              				<h3><strong>Cost Analysis</strong></h3> <br>
+              				<center><h4><strong>Cost Analysis</strong></h4> </center><br>
               				<p style="text-align: justify; line-height:2;">Teams submit a cost report before races.Cost analysis consists of Overview, Costing Sheets, and Cost Documentation. Overview section consists of a written report (the Cost Report) and a discussion with the judges around the manufactured prototype. The Costing sheets contains a list of all components with their costs.</p>
             			</div>
           			</div>
@@ -176,7 +177,7 @@
                 				</div>
               				</div>
               				<br>
-              				<h3><strong>Sales Presentation</strong></h3><br> 
+              				<center><h4><strong>Sales Presentation</strong></h4> </center><br>
               				<p style="text-align: justify; line-height:2;">The sales presentation is pitching to a panel of "executives" of a hypothetical manufacturing company to try and convince them to purchase the team's vehicle design.the presentation is judged on the content of the presentation, organisation, effectiveness of visual aid and lastly the response of the team.</p>
             			</div>
           			</div>
@@ -184,13 +185,15 @@
           <!-- single-awesome-project end -->
           <!-- single-awesome-project start -->
                 
-                <br><br>
+                <br>
+				<center><h3><strong>DYNAMIC EVENTS</strong></h3></center>
+				<br>
           			<div class= "row">
           			
 					      <div class="col-md-4 col-sm-4 col-xs-12 design development">
             			 <div class="single-awesome-project">
               				<div class="awesome-img">
-                				<a href="#"><img src="img/4.jpg" alt="" style="max-width: 100%;  max-height: 300px;"/></a>
+                				<a href="#"><img src="img/brake.jpg" alt="" style="max-width: 100%;  max-height: 300px;"/></a>
                 				<div class="add-actions text-center">
                   					<div class="project-dec">
                     					<a class="venobox" href="img/4.jpg" style="max-width: 100%;  max-height: 300px;">    
@@ -200,7 +203,7 @@
                 				</div>
               				</div>
               				<br>
-              				<h3><strong>Brake test</strong></h3> <br>
+              				<center><h4><strong>Brake Test</strong></h4> </center><br>
               				<p style="text-align: justify; line-height:2;">The vehicle has to stop within a fixed distance with simultaneous locking of all 4 wheels from a min. speed of 45 kph.</p>
             			</div>
           			</div>
@@ -210,7 +213,7 @@
 					       <div class="col-md-4 col-sm-4 col-xs-12 design development">
             			 <div class="single-awesome-project">
               				<div class="awesome-img">
-                				<a href="#"><img src="img/7.jpg" alt="" style="max-width: 100%;  max-height: 300px;"/></a>
+                				<a href="#"><img src="img/acceleration.jpg" alt="" style="max-width: 100%;  max-height: 300px;"/></a>
                 				<div class="add-actions text-center">
                   					<div class="project-dec">
                     					<a class="venobox" href="img/4.jpg">    
@@ -220,7 +223,7 @@
                 				</div>
               				</div>
               				<br>
-              				<h3><strong>Acceleration</strong></h3> <br>
+              				<center><h4><strong>Acceleration</strong></h4> </center><br>
               				<p style="text-align: justify; line-height:2;">TThe objective is to measure the time taken to ATV to complete 30.48m off-road , straight course from a standing start. This test decides the position of the vehicle in final positioning of the endurance event.</p>
             			</div>
           			</div>
@@ -229,7 +232,7 @@
           			<div class="col-md-4 col-sm-4 col-xs-12 design development">
             			<div class="single-awesome-project">
               				<div class="awesome-img">
-                				<a href="#"><img src="img/bmr4.jpg" alt=""style="max-width: 100%;  max-height: 300px;" /></a>
+                				<a href="#"><img src="img/hill.jpg" alt=""style="max-width: 100%;  max-height: 300px;" /></a>
                 				<div class="add-actions text-center">
                   					<div class="project-dec">
                     					<a class="venobox" href="bmr4.jpg">    
@@ -239,35 +242,19 @@
                 				</div>
               				</div>
               				<br>
-              				<h3><strong>Hill climb/ Traction event</strong></h3><br> 
+              				<center><h4><strong>Hill climb/ Traction event</strong></h4> </center><br>
               				<p style="text-align: justify; line-height:2;">The objective is to measure the time taken to ATV to complete 30.48m off-road , straight course from a standing start. This test decides the position of the vehicle in final positioning of the endurance event.</p>
             			</div>
           			</div>
                 </div>
                 <div class= "row">
           <!-- single-awesome-project end -->
-          			<div class="col-md-4 col-sm-4 col-xs-12 design development">
-            			 <div class="single-awesome-project">
-              				<div class="awesome-img">
-                				<a href="#"><img src="img/bmr4.jpg" alt="" style="max-width: 100%;  max-height: 300px;"/></a>
-                				<div class="add-actions text-center">
-                  					<div class="project-dec">
-                    					<a class="venobox" href="img/bmr4.jpg">    
-                    					  <h4 style="color: white;">Endurance test</h4>                  						
-                   						</a>
-                					  </div>
-                				</div>
-              				</div>
-              				<br>
-              				<h3><strong>Endurance test</strong></h3> <br>
-              				<p style="text-align: justify; line-height:2;">It checks the ability of the ATV to operate continuously over rough terrain containing obstacles of all condition weather. This test usually runs for 4 hours over a 5.5 km all terrain track.</p>
-            			</div>
-          			</div>
+          			
 
-          			<div class="col-md-4 col-sm-4 col-xs-12 design development">
+          			<div class="col-md-offset-2 col-md-4 col-sm-4 col-xs-12 design development">
             			<div class="single-awesome-project">
               				<div class="awesome-img">
-                				<a href="#"><img src="img/imp.jpg" alt="" style="max-width: 100%;  max-height: 300px;"/></a>
+                				<a href="#"><img src="img/traction.jpg" alt="" style="max-width: 100%;  max-height: 300px;"/></a>
                 				<div class="add-actions text-center">
                   					<div class="project-dec">
                     					<a class="venobox" href="img/imp.jpg">    
@@ -277,14 +264,31 @@
                 				</div>
               				</div>
               				<br>
-              				<h3><strong>Manoeuvrability and Suspension & Traction test</strong></h3><br> 
+              				<center><h4><strong>Manoeuvrability and Suspension & Traction test</strong></h4> </center>
               				<p style="text-align: justify; line-height:2;">This test determines the ability to handle typical rough BAJA terrain. The track contains heterogeneous challenges such as sharp turns, pylon manoeuvres, ruts and bumps, drop-offs, sand, rocks, gullies, logs and inclines.</p>
+            			</div>
+          			</div>
+					<div class="col-md-4 col-sm-4 col-xs-12 design development">
+            			 <div class="single-awesome-project">
+              				<div class="awesome-img">
+                				<a href="#"><img src="img/endurance.jpg" alt="" style="max-width: 100%;  max-height: 300px;"/></a>
+                				<div class="add-actions text-center">
+                  					<div class="project-dec">
+                    					<a class="venobox" href="img/bmr4.jpg">    
+                    					  <h4 style="color: white;">Endurance test</h4>                  						
+                   						</a>
+                					  </div>
+                				</div>
+              				</div>
+              				<br>
+              				<center><h4><strong>Endurance Test</strong></h4> </center><br>
+              				<p style="text-align: justify; line-height:2;">It checks the ability of the ATV to operate continuously over rough terrain containing obstacles of all condition weather. This test usually runs for 4 hours over a 5.5 km all terrain track.</p>
             			</div>
           			</div>
           		</div>
         </div>
   	</div>
-  
+  </div>
   <!-- awesome-portfolio end -->
 
 	<br><br>

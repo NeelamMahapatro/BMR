@@ -161,9 +161,10 @@
       			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
       			<img src="img/sponsors/mahindra.jpg"></img>
       			</div>
-      			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
-      			<img src="img/sponsors/nitraa.jpg"></img>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
+      			<img src="img/sponsors/cneplex.jpg"></img>
       			</div>
+      			
       		</div>
       		<br>
       		<br>
@@ -176,10 +177,10 @@
       			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
       			<img src="img/sponsors/sbi.jpg"></img>
       			</div>
-      			
-				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
-      			<img src="img/sponsors/cneplex.jpg"></img>
+      			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
+      			<img src="img/sponsors/nitraa.jpg"></img>
       			</div>
+				
       			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 img-responsive">
       			<img src="img/sponsors/vedanta.jpg"></img>
       			</div>
