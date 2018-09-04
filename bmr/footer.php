@@ -4,18 +4,18 @@
 <script src="js/gallery/ekko-lightbox.min.js"></script>
 <script src="js/gallery/ekko-lightbox.min.js.map"></script>
 <footer>
-    <div class="footer-area">
+    <div class="footer-area hidden-xs">
       <div class="container">
         <div class="row">
           <div class="col-md-4 col-sm-4 col-xs-12">
             <div class="footer-content">
               <div class="footer-head">
                 <div class="footer-logo">
-                  <h3><strong>BAJA</strong></h3>
+                  <h3><strong>BMR</strong></h3>
+                
+                <p>Black Mamba Racing is a conglomerate of budding technicians, designers and management enthusiasts who build an All Terrain Vehicle (ATV) and participate in BAJA SAE 2018. The team has reached various pinnacles and continues to do by optimising the ATVs that we build.</p>
                 </div>
-
-                <p>Organized by the society of automotive engineers (SAE), BAJA SAE is an intercolligative design competition organized for students from universities all across the globe where the participants are required to design and build off road cars that can withstand extreme working environments</p>
-                <div class="footer-icons">
+				<div class="footer-icons">
                   <ul>
                     <li>
                       <a href="#"><i class="fa fa-facebook"></i></a>
@@ -44,7 +44,7 @@
 					Team Captain: Ravi Narayan Shah<br>
 					Team Vice-captain: Akshat Sambodhi
 					</p>
-                  <p><i class="fa fa-phone" aria-hidden="true"></i>  : Shivam Ray : +91-7077644422</p>
+                  <p><i class="fa fa-phone" aria-hidden="true"></i>  : Ravi Narayan Shah : +91-7540961716</p>
                   <p><i class="fa fa-envelope"></i> :  <a href="mailto:bmr.nitrkl@gmail.com">bmr.nitrkl@gmail.com</a></p>                  
                 </div>
               </div>
