@@ -18,16 +18,16 @@
 				<div class="footer-icons">
                   <ul>
                     <li>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
+                      <a href="https://www.facebook.com/blackmambaracing/" target="_blank"><i class="fa fa-facebook"></i></a>
                     </li>
                     <li>
-                      <a href="#"><i class="fa fa-twitter"></i></a>
+                      <a href="https://twitter.com/BMR_NITRkl" target="_blank"><i class="fa fa-twitter"></i></a>
                     </li>
                     <li>
-                      <a href="#"><i class="fa fa-google"></i></a>
+                      <a href="https://plus.google.com/117387561735276964816" target="_blank"><i class="fa fa-google"></i></a>
                     </li>
                     <li>
-                      <a href="#"><i class="fa fa-pinterest"></i></a>
+                      <a href="https://www.instagram.com/teamblackmambaracing/" target="_blank"><i class="fa fa-pinterest"></i></a>
                     </li>
                   </ul>
                 </div>
