@@ -1022,13 +1022,14 @@ div#preloader {
   opacity: 0;
 }
 
-.team-social-icon {
+.team-social-icon {  
   left: 50%;
   margin-left: -61px;
   opacity: 0;
   position: absolute;
   top: 30%;
   transition: 1.3s;
+  text-align: center;
 }
 
 .team-social-icon ul li {

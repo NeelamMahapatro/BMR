@@ -86,7 +86,7 @@
 	    <!-- header-area end -->
   	</header>
     <div class="container">
-         <img src="img/baja.jpg" style="width: 100%; height:20%; padding-top:10vh;">
+         <img src="img/baja.jpg" style="width: 100%; height:20%; padding-top:8vh;">
     </div>
   	<br>
   	<div id="portfolio" class="portfolio-area ">
