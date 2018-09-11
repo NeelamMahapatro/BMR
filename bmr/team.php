@@ -100,6 +100,269 @@
 		      	</div>
 	      	<div class="row">
 	        	<div class="team-top">
+					<div class="col-md-3 col-sm-3 col-xs-12">
+	            		<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Adarsh Chowdhury.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Adarsh</h4></center>	
+	                      					<center><a href="https://www.facebook.com/adarsh.chowdhury.3" target="_BLANK" >
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Adarsh Choudhury</h5>
+				                <h6>Braking</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-8290036366</p>
+		            		</div>
+	            		</div>
+	          		</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+	            		<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/ankit.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Ankit Kumar</h4></center>	
+	                      					<center><a href="https://www.facebook.com/anki.8422" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Ankit Kumar Sinha</h5>
+				                <h6>Braking</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7750941057</p>
+		            		</div>
+	            		</div>
+	          		</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+	            		<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Dhiraj Hasija.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Dhiraj</h4></center>	
+	                      					<center><a href="https://www.facebook.com/dhirajhasija" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Dhiraj Hasija</h5>
+				                <h6>Braking</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7873760532</p>
+		            		</div>
+	            		</div>
+	          		</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+	            		<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Sandeep Kumar Das.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Sandeep</h4></center>	
+	                      					<center><a href="https://www.facebook.com/profile.php?id=100004725139491" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Sandeep Kumar Das</h5>
+				                <h6>Braking</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9438210139</p>
+		            		</div>
+	            		</div>
+	          		</div>
+				</div>
+			</div>
+			<br>
+			<div class="row">
+	        	<div class="team-top">
+					<div class="col-md-3 col-sm-3 col-xs-12">
+	            		<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Bibek Rauniyar.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;"> &nbsp;Bibek</h4></center>
+	                      					<center><a href="https://www.facebook.com/bibek.rauniyar.39" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>
+	                    				</li>	                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Bibek Rauniyar</h5>
+				                <h6>Chassis</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-8908221112</p>
+		            		</div>
+	            		</div>
+	         		</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+		            	<div class="single-team-member">
+                            <div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Prabhu Prasad.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Prabhu Prasad</h4></center>	
+	                      					<center><a href="https://www.facebook.com/profile.php?id=100017443839838" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Prabhu Prasad Barik</h5>
+				                <h6>Chassis</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9348456965</p>
+		            		</div>
+		        		</div>
+		          	</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+	            		<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Shashank.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Shasank</h4></center>	
+	                      					<center><a href="https://www.facebook.com/shashank.mohapatra?ref=bookmarks" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Shashank Mohapatra</h5>
+				                <h6>Chassis</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7749849577</p>
+		            		</div>
+	            		</div>
+	         		</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+	            		<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Sujit Mithilesh.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Sujit Kumar</h4></center>	
+	                      					<center><a href="https://www.facebook.com/profile.php?id=100004924848668" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Sujit Kumar</h5>
+				                <h6>Chassis</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7542805144</p>
+		            		</div>
+	            		</div>
+	          		</div>
+				</div>
+			</div>
+			<br>
+			<div class="row">
+	        	<div class="team-top">			
+					<div class="col-md-3 col-sm-3 col-xs-12">
+	            		<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Tanay Agarwal.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Tanay Agarwal</h4></center>	
+	                      					<center><a href="https://www.facebook.com/tanay.agrawal.714" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Tanay Agrawal</h5>
+				                <h6>Chassis</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9438302549</p>
+		            		</div>
+	            		</div>
+	         		</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+	            		<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Akshat Jaiswal.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Akshat</h4></center>	
+	                      					<center><a href="https://www.facebook.com/akshat.jaiswal.3110" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Akshat Jaiswal</h5>
+				                <h6>PR and Management</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-8280532397</p>
+		            		</div>
+	            		</div>
+	         		</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+		            	<div class="single-team-member">
+			              	<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Akshat.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Akshat</h4></center>	
+	                      					<center><a href="https://m.facebook.com/sambodhi13" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Akshat Sambodhi</h5>
+				                <h6>PR and Management</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9472174268</p>
+		            		</div>
+		        		</div>
+		          	</div>
 		         	<div class="col-md-3 col-sm-3 col-xs-12">
 		            	<div class="single-team-member">
 			              	<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;    display: inline-block;">
@@ -109,7 +372,7 @@
                                  <div class="team-social-icon text-center">
 	                  				<ul>
 	                    				<li><h4 style="color: white;">Ansumita</h4>
-	                      					<center><a href="https://www.facebook.com/ansumita.mohapatra.7">
+	                      					<center><a href="https://www.facebook.com/ansumita.mohapatra.7" target="_BLANK">
 												<i class="fa fa-facebook"></i>
 											</a></center>
 	                    				</li>	                    					                    				
@@ -118,36 +381,140 @@
 			                </div>
 			                <div class="team-content text-center">
 				                <h5>Ansumita Mohapatra</h5>
-				                <h6>Sub system: PR and Management</h6>
+				                <h6>PR and Management</h6>
 				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7327059382</p>
 		            		</div>
 		        		</div>
 		          	</div>
 	          		<!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
+	          	</div>
+			</div>
+			<br>
+	      	<div class="row">
+	        	<div class="team-top">
+					
+					<div class="col-md-3 col-sm-3 col-xs-12">
 	            		<div class="single-team-member">
 	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
 		                		<a href="#">
-									<img src="team/Bibek Rauniyar.jpg" alt="" height="350px" width="250px">
+									<img src="team/Bijaya Sethi.jpg" alt="" height="350px" width="250px">
 								</a>
 	                			<div class="team-social-icon text-center">
 	                  				<ul>
-	                    				<li><center><h4 style="color: white;"> &nbsp;Bibek</h4></center>
-	                      					<center><a href="https://www.facebook.com/bibek.rauniyar.39">
+	                    				<li><center><h4 style="color: white;">Bjaya</h4></center>	
+	                      					<center><a href="https://m.facebook.com/?hrc=1&refsrc=http%3A%2F%2Fh.facebook.com%2Fhr%2Fr&_rdr" target="_BLANK">
 												<i class="fa fa-facebook"></i>
-											</a></center>
-	                    				</li>	                    					                    				
+											</a></center>	
+	                    				</li>                    					                    				
 	                  				</ul>
 	                			</div>
 			                </div>
 			                <div class="team-content text-center">
-				                <h5>Bibek Rauniyar</h5>
-				                <h6>Sub system: Chassis</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-8908221112</p>
+				                <h5>Bijaya Laxmi Sethi</h5>
+				                <h6>PR and Management</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-8280040902</p>
+		            		</div>
+	            		</div>
+	          		</div>
+	          <!-- End column -->
+					<div class="col-md-3 col-sm-3 col-xs-12">
+		            	<div class="single-team-member">
+			              	<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/ripunjay.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Ripunjay</h4></center>	
+	                      					<center><a href="https://www.facebook.com/ripunjay.das.52" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Ripunjay Das </h5>
+				                <h6>PR and Management</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-8812003762</p>
+		            		</div>
+		        		</div>
+		          	</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+	            		<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Aditya Kashyap.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Aditya</h4></center>	
+	                      					<center><a href="https://www.facebook.com/aditya.kashyap.796" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Aditya Kashyap</h5>
+				                <h6>Suspension and Steering</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7873758609</p>
+		            		</div>
+	            		</div>
+	          		</div>
+					<div class="col-md-3 col-sm-3 col-xs-12 ">
+	      				<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Devashsish Kolte.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Devashish</h4></center>	
+	                      					<center><a href="https://m.facebook.com/home.php?_rdr" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Devashish kolte</h5>
+				                <h6>Suspension and Steering</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7798022209</p>
+		            		</div>
+	            		</div>
+	            	</div>
+				</div>
+			</div>
+			<br>
+	      	<div class="row">
+	        	<div class="team-top">			
+					<div class="col-md-3 col-sm-3 col-xs-12">
+	            		<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Dharma Ojha.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Dharam Raj</h4></center>	
+	                      					<center><a href="https://www.facebook.com/dharma.ojha.3" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Dharma Raj Ojha</h5>
+				                <h6>Suspension and Steering</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9078279391</p>
 		            		</div>
 	            		</div>
 	         		</div>
-	          <!-- End column -->
+					
 	          		<div class="col-md-3 col-sm-3 col-xs-12">
 	            		<div class="single-team-member">
 	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
@@ -157,7 +524,7 @@
 	                			<div class="team-social-icon text-center">
 	                  				<ul>
 	                    				<li><center><h4 style="color: white;">&nbsp; &nbsp;Manish</h4></center>	
-	                      					<center><a href="https://www.facebook.com/manishvertexsingh">
+	                      					<center><a href="https://www.facebook.com/manishvertexsingh" target="_BLANK">
 												<i class="fa fa-facebook"></i>
 											</a></center>	
 	                    				</li>                    					                    				
@@ -166,22 +533,22 @@
 			                </div>
 			                <div class="team-content text-center">
 				                <h5>Manish Kumar Singh</h5>
-				                <h6>Sub system: Suspension and Steering</h6>
+				                <h6>Suspension and Steering</h6>
 				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7750055887</p>
 		            		</div>
 	            		</div>
 	          		</div>
 	          		<!-- End column -->
 	          		<div class="col-md-3 col-sm-3 col-xs-12">
-	            		<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+						<div class="single-team-member">
+							<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
 		                		<a href="#">
-									<img src="team/Sujit Mithilesh.jpg" alt="" height="350px" width="250px">
+									<img src="team/Ravi Prakash.jpg" alt="" height="350px" width="250px">
 								</a>
 	                			<div class="team-social-icon text-center">
 	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Sujit Kumar</h4></center>	
-	                      					<center><a href="https://www.facebook.com/profile.php?id=100004924848668">
+	                    				<li><center><h4 style="color: white;">Ravi Prakash</h4></center>	
+	                      					<center><a href="https://www.facebook.com/usernameravi/" target="_BLANK">
 												<i class="fa fa-facebook"></i>
 											</a></center>	
 	                    				</li>                    					                    				
@@ -189,43 +556,13 @@
 	                			</div>
 			                </div>
 			                <div class="team-content text-center">
-				                <h5>Sujit Kumar</h5>
-				                <h6>Sub system: Chassis</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7542805144</p>
+				                <h5>Ravi Prakash</h5>
+				                <h6>Suspension and Steering</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9123474376</p>
 		            		</div>
-	            		</div>
-	          		</div>
-	          <!-- End column -->
-	        	</div>
-	      	</div>
-	      	<br>
-	      	<div class="row">
-	        	<div class="team-top">
-		         	<div class="col-md-3 col-sm-3 col-xs-12">
-		            	<div class="single-team-member">
-			              	<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Ravi Narayan Shah.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Ravi Narayan</h4></center>	
-	                      					<center><a href="https://www.facebook.com/ravi.sah.10">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Ravi Narayan Sah</h5>
-				                <h6>Sub system: Chassis</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7542805144</p>
-		            		</div>
-		        		</div>
-		          	</div>
-	          		<!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
 	            		<div class="single-team-member">
 	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
 		                		<a href="#">
@@ -234,7 +571,7 @@
 	                			<div class="team-social-icon text-center">
 	                  				<ul>
 	                    				<li><center><h4 style="color: white;">Saurabh</h4></center>	
-	                      					<center><a href="https://www.facebook.com/saurabh.suman.3406">
+	                      					<center><a href="https://www.facebook.com/saurabh.suman.3406" target="_BLANK">
 												<i class="fa fa-facebook"></i>
 											</a></center>	
 	                    				</li>                    					                    				
@@ -243,11 +580,66 @@
 			                </div>
 			                <div class="team-content text-center">
 				                <h5>Saurabh Suman</h5>
-				                <h6>Sub system: Suspension and Steering</h6>
+				                <h6>Suspension and Steering</h6>
 				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9937262935</p>
 		            		</div>
 	            		</div>
 	         		</div>
+	          <!-- End column -->
+	        	</div>
+	      	</div>
+			<br>
+	      	<div class="row">
+	        	<div class="team-top">
+					<div class="col-md-3 col-sm-3 col-xs-12">
+	            		<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Abhishek Rauniyar.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Abhisek</h4></center>	
+	                      					<center><a href="https://m.facebook.com/avisek1971" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Abhishek Rauniyar</h5>
+				                <h6>Transmission</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7091777922</p>
+		            		</div>
+	            		</div>
+	          		</div>
+					<div class="col-md-3 col-sm-3 col-xs-12">
+	            		<div class="single-team-member">
+	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		                		<a href="#">
+									<img src="team/Mahesh Gupta.jpg" alt="" height="350px" width="250px">
+								</a>
+	                			<div class="team-social-icon text-center">
+	                  				<ul>
+	                    				<li><center><h4 style="color: white;">Mahesh</h4></center>	
+	                      					<center><a href="https://m.facebook.com/mahesh.gupta.399488?ref=bookmarks" target="_BLANK">
+												<i class="fa fa-facebook"></i>
+											</a></center>	
+	                    				</li>                    					                    				
+	                  				</ul>
+	                			</div>
+			                </div>
+			                <div class="team-content text-center">
+				                <h5>Mahesh S Gupta</h5>
+				                <h6>Transmission</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-8847869252</p>
+		            		</div>
+	            		</div>
+	          		</div>
+	          		<!-- End column -->
+		         	
+	          		
 	          <!-- End column -->
 	          		<div class="col-md-3 col-sm-3 col-xs-12">
 	            		<div class="single-team-member">
@@ -258,7 +650,7 @@
 	                			<div class="team-social-icon text-center">
 	                  				<ul>
 	                    				<li><center><h4 style="color: white;">Nitesh</h4></center>	
-	                      					<center><a href="https://www.facebook.com/niteshgupta910">
+	                      					<center><a href="https://www.facebook.com/niteshgupta910" target="_BLANK">
 												<i class="fa fa-facebook"></i>
 											</a></center>	
 	                    				</li>                    					                    				
@@ -267,22 +659,22 @@
 			                </div>
 			                <div class="team-content text-center">
 				                <h5>Nitesh Gupta</h5>
-				                <h6>Sub system: Transmission</h6>
+				                <h6>Transmission</h6>
 				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9658984546</p>
 		            		</div>
 	            		</div>
 	          		</div>
 	          		<!-- End column -->
 	          		<div class="col-md-3 col-sm-3 col-xs-12">
-	            		<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
+		            	<div class="single-team-member">
+			              	<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
 		                		<a href="#">
-									<img src="team/Nitesh Gupta.jpg" alt="" height="350px" width="250px">
+									<img src="team/Ravi Narayan Shah.jpg" alt="" height="350px" width="250px">
 								</a>
 	                			<div class="team-social-icon text-center">
 	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Abhsek</h4></center>	
-	                      					<center><a href="https://m.facebook.com/avisek1971">
+	                    				<li><center><h4 style="color: white;">Ravi Narayan</h4></center>	
+	                      					<center><a href="https://www.facebook.com/ravi.sah.10" target="_BLANK">
 												<i class="fa fa-facebook"></i>
 											</a></center>	
 	                    				</li>                    					                    				
@@ -290,90 +682,20 @@
 	                			</div>
 			                </div>
 			                <div class="team-content text-center">
-				                <h5>Abhishek Rauniyar</h5>
-				                <h6>Sub system: Transmission</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7091777922</p>
-		            		</div>
-	            		</div>
-	          		</div>
-	          <!-- End column -->
-	        	</div>
-	      	</div>
-	      	<br>
-	      	<div class="row">
-	        	<div class="team-top">
-		         	<div class="col-md-3 col-sm-3 col-xs-12">
-		            	<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Ravi Prakash.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Ravi Prakash</h4></center>	
-	                      					<center><a href="https://www.facebook.com/usernameravi/">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Ravi Prakash</h5>
-				                <h6>Sub system: Suspension and Steering</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9123474376</p>
+				                <h5>Ravi Narayan Sah</h5>
+				                <h6>Transmission</h6>
+				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7542805144</p>
 		            		</div>
 		        		</div>
 		          	</div>
 	          		<!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
-	            		<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Akshat Jaiswal.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Akshat</h4></center>	
-	                      					<center><a href="https://www.facebook.com/akshat.jaiswal.3110">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Akshat Jaiswal</h5>
-				                <h6>Sub system: PR and Management</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-8280532397</p>
-		            		</div>
-	            		</div>
-	         		</div>
 	          <!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
-	            		<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/ankit.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Ankit Kumar</h4></center>	
-	                      					<center><a href="https://www.facebook.com/anki.8422">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Ankit Kumar Sinha</h5>
-				                <h6>Sub system: Braking</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7750941057</p>
-		            		</div>
-	            		</div>
-	          		</div>
-	          		<!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
+	        	</div>
+	      	</div>
+			<br>
+	      	<div class="row">
+	        	<div class="team-top">
+		         	<div class="col-md-3 col-sm-3 col-xs-12">
 	            		<div class="single-team-member">
                             <div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
 		                		<a href="#">
@@ -382,7 +704,7 @@
 	                			<div class="team-social-icon text-center">
 	                  				<ul>
 	                    				<li><center><h4 style="color: white;">Sujit Kumar</h4></center>	
-	                      					<center><a href="www.facebook.com/sujit456">
+	                      					<center><a href="www.facebook.com/sujit456" target="_BLANK">
 												<i class="fa fa-facebook"></i>
 											</a></center>	
 	                    				</li>                    					                    				
@@ -391,344 +713,14 @@
 			                </div>
 			                <div class="team-content text-center">
 				                <h5>Sujit Kumar Mallik</h5>
-				                <h6>Sub system: Transmission</h6>
+				                <h6>Transmission</h6>
 				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9178284161</p>
 		            		</div>
 	            		</div>
 	          		</div>
-	          <!-- End column -->
-	        	</div>
-	      	<br>
-	      	<div class="row">
-	        	<div class="team-top">
-		         	<div class="col-md-3 col-sm-3 col-xs-12">
-		            	<div class="single-team-member">
-			              	<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Akshat.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Akshat</h4></center>	
-	                      					<center><a href="https://m.facebook.com/sambodhi13">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Akshat Sambodhi</h5>
-				                <h6>Sub system: PR and Management</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9472174268</p>
-		            		</div>
-		        		</div>
-		          	</div>
-	          		<!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
-	            		<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Shashank.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Shasank</h4></center>	
-	                      					<center><a href="https://www.facebook.com/shashank.mohapatra?ref=bookmarks">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Shashank Mohapatra</h5>
-				                <h6>Sub system: Chassis</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7749849577</p>
-		            		</div>
-	            		</div>
-	         		</div>
-	          <!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
-	            		<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Mahesh Gupta.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Mahesh</h4></center>	
-	                      					<center><a href="https://m.facebook.com/mahesh.gupta.399488?ref=bookmarks">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Mahesh S Gupta</h5>
-				                <h6>Sub system: Transmission</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-8847869252</p>
-		            		</div>
-	            		</div>
-	          		</div>
-	          		<!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
-	            		<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Sandeep Kumar Das.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Sandeep</h4></center>	
-	                      					<center><a href="https://www.facebook.com/profile.php?id=100004725139491">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Sandeep Kumar Das</h5>
-				                <h6>Sub system: Braking</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9438210139</p>
-		            		</div>
-	            		</div>
-	          		</div>
-	          <!-- End column -->
 	        	</div>
 	      	</div>
-	      	<br>
-	      	<div class="row">
-	        	<div class="team-top">
-		         	<div class="col-md-3 col-sm-3 col-xs-12">
-		            	<div class="single-team-member">
-                            <div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Prabhu Prasad.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Prabhu Prasad</h4></center>	
-	                      					<center><a href="https://www.facebook.com/profile.php?id=100017443839838">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Prabhu Prasad Barik</h5>
-				                <h6>Sub system: Chassis</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9348456965</p>
-		            		</div>
-		        		</div>
-		          	</div>
-	          		<!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
-	            		<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Dharma Ojha.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Dharam Raj</h4></center>	
-	                      					<center><a href="https://www.facebook.com/dharma.ojha.3">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Dharma Raj Ojha</h5>
-				                <h6>Sub system: Suspension and Steering</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9078279391</p>
-		            		</div>
-	            		</div>
-	         		</div>
-	          <!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
-	            		<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Bijaya Sethi.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Bjaya</h4></center>	
-	                      					<center><a href="https://m.facebook.com/?hrc=1&refsrc=http%3A%2F%2Fh.facebook.com%2Fhr%2Fr&_rdr">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Bijaya Laxmi Sethi</h5>
-				                <h6>Sub system: PR and Management</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-8280040902</p>
-		            		</div>
-	            		</div>
-	          		</div>
-	          		<!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
-	            		<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Dhiraj Hasija.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Dhiraj</h4></center>	
-	                      					<center><a href="https://www.facebook.com/dhirajhasija">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Dhiraj Hasija</h5>
-				                <h6>Sub system: Braking</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7873760532</p>
-		            		</div>
-	            		</div>
-	          		</div>
-	          <!-- End column -->
-	        	</div>
-	      	</div>
-	      	<br>
-	      	<div class="row">
-	        	<div class="team-top">
-		         	<div class="col-md-3 col-sm-3 col-xs-12">
-		            	<div class="single-team-member">
-			              	<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/ripunjay.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Ripunjay</h4></center>	
-	                      					<center><a href="https://www.facebook.com/ripunjay.das.52">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Ripunjay Das </h5>
-				                <h6>Sub system: PR and Management</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-8812003762</p>
-		            		</div>
-		        		</div>
-		          	</div>
-	          		<!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
-	            		<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Tanay Agarwal.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Tanay Agarwal</h4></center>	
-	                      					<center><a href="https://www.facebook.com/tanay.agrawal.714">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Tanay Agrawal</h5>
-				                <h6>Sub system: Chassis</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-9438302549</p>
-		            		</div>
-	            		</div>
-	         		</div>
-	          <!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
-	            		<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Adarsh Chowdhury.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Adarsh</h4></center>	
-	                      					<center><a href="https://www.facebook.com/adarsh.chowdhury.3">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Adarsh Choudhury</h5>
-				                <h6>Sub system: Braking</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-8290036366</p>
-		            		</div>
-	            		</div>
-	          		</div>
-	          		<!-- End column -->
-	          		<div class="col-md-3 col-sm-3 col-xs-12">
-	            		<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Aditya Kashyap.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Aditya</h4></center>	
-	                      					<center><a href="https://www.facebook.com/aditya.kashyap.796">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Aditya Kashyap</h5>
-				                <h6>Sub system: Suspension and Steering</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7873758609</p>
-		            		</div>
-	            		</div>
-	          		</div>
-	          <!-- End column -->
-	        	</div>
-	      	</div>
-	      	<br>
-	      	<div class="row">
-	      		<div class="team-top">
-	      			<div class="col-md-3 col-sm-3 col-xs-12 ">
-	      				<div class="single-team-member">
-	              			<div class="team-img" style="width: 100%;    max-width: 290px;    padding: 0px 25px;  display: inline-block;">
-		                		<a href="#">
-									<img src="team/Devashsish Kolte.jpg" alt="" height="350px" width="250px">
-								</a>
-	                			<div class="team-social-icon text-center">
-	                  				<ul>
-	                    				<li><center><h4 style="color: white;">Devashish</h4></center>	
-	                      					<center><a href="https://m.facebook.com/home.php?_rdr">
-												<i class="fa fa-facebook"></i>
-											</a></center>	
-	                    				</li>                    					                    				
-	                  				</ul>
-	                			</div>
-			                </div>
-			                <div class="team-content text-center">
-				                <h5>Devashish kolte</h5>
-				                <h6>Sub system: Suspension and Steering</h6>
-				                <p style="color:blue;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91-7798022209</p>
-		            		</div>
-	            		</div>
-	            	</div>
-	      		</div>	      		
-	      	</div>
+	      	
     	</div>
 	</div>
 	<br><br>
