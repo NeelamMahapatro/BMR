@@ -1,8 +1,5 @@
-<link href="css/gallery/ekko-lightbox.css" rel="stylesheet">
-<script src="js/gallery/ekko-lightbox.js"></script>
-<script src="js/gallery/ekko-lightbox.js.map"></script>
-<script src="js/gallery/ekko-lightbox.min.js"></script>
-<script src="js/gallery/ekko-lightbox.min.js.map"></script>
+<link href="css/custom1.css" rel="stylesheet">
+
 <footer>
     <div class="footer-area hidden-xs">
       <div class="container">
@@ -56,12 +53,12 @@
               <div class="footer-head">
                 <h3><strong>Our Cars</strong></h3>
                 <div class="flicker-img">
-                  <a href="./img/1.jpg" data-toggle="lightbox" data-gallery="example-gallery" ><img src="img/1.jpg" alt="" class="img-fluid"></a>
-                  <a href="./img/2.jpg" data-toggle="lightbox" data-gallery="example-gallery" ><img src="img/2.jpg" alt="" class="img-fluid"></a>
-                  <a href="./img/3.jpg" data-toggle="lightbox" data-gallery="example-gallery" ><img src="img/3.jpg" alt="" class="img-fluid"></a>
-                  <a href="./img/4.jpg" data-toggle="lightbox" data-gallery="example-gallery" ><img src="img/4.jpg" alt="" class="img-fluid"></a>
-                  <a href="./img/7.jpg" data-toggle="lightbox" data-gallery="example-gallery" ><img src="img/7.jpg" alt="" class="img-fluid"></a>
-                  <a href="./img/8.png" data-toggle="lightbox" data-gallery="example-gallery" ><img src="img/8.png" alt="" class="img-fluid"></a>
+                  <a><img src="img/1.jpg" alt="" onclick="openModal();currentSlide(1)" style="cursor:pointer"></a>
+                  <a><img src="img/2.jpg" alt="" onclick="openModal();currentSlide(2)" style="cursor:pointer"></a>
+                  <a><img src="img/3.jpg" alt="" onclick="openModal();currentSlide(3)" style="cursor:pointer"></a>
+                  <a><img src="img/4.jpg" alt="" onclick="openModal();currentSlide(4)" style="cursor:pointer"></a>
+                  <a><img src="img/7.jpg" alt="" onclick="openModal();currentSlide(5)" style="cursor:pointer"></a>
+                  <a><img src="img/8.png" alt="" onclick="openModal();currentSlide(6)" style="cursor:pointer"></a>
                 </div>
               </div>
             </div>
@@ -92,9 +89,138 @@
       </div>
     </div>
   </footer>
-  <script>
-		$(document).on('click', '[data-toggle="lightbox"]', function(event) {
-                event.preventDefault();
-                $(this).ekkoLightbox();
-            });
-		</script>
+  <div id="myModal" class="modal " style="z-index:999999;">
+	  <span></span>
+	  <div class="modal-content" style="background-image:url(img/modal_bg1.jpg)">
+		<span class="close cursor"  onclick="closeModal()">&times;</span>
+		<div class="mySlides" style="background-image:url(img/modal_bg1.jpg)">
+		  <div class="numbertext">1 / 6</div>
+		  <img src="img/1.jpg" style="display:block;margin: auto;width:auto;height:30vw;">
+		  <center>
+			<h3>BMR No. 1</h3>
+			<br>
+			<h3>The first mamba to raise it fangs and roar, turning the clock back.</h3>
+			</center>
+		  
+		</div>
+
+		<div class="mySlides" style="background-image:url(img/modal_bg1.jpg)">
+		  <div class="numbertext">2 / 6</div>
+		  <img src="img/2.jpg" style="display:block;margin: auto;width:auto;height:30vw;">
+		  <center>
+			<h3>BMR No. 2</h3>
+			<br>
+			<h3>The second edition of Team Black Mamba Racing, sporting a sleek look.</h3>
+		  </center>
+		</div>
+		<div class="mySlides" style="background-image:url(img/modal_bg1.jpg)">
+		  <div class="numbertext">3 / 6</div>
+		  <img src="img/3.jpg" style="display:block;margin: auto;width:auto;height:30vw;">
+		  <center>
+			<h3>BMR No. 3</h3>
+			<br>
+			<h3>Bogged down by few technicalities, but the optimization process was continous.</h3>
+			</center>
+		</div>
+		<div class="mySlides" style="background-image:url(img/modal_bg1.jpg)">
+		  <div class="numbertext">4 / 6</div>
+		  <img src="img/4.jpg" style="display:block;margin: auto;width:auto;height:30vw;">
+		  <center>
+			<h3>BMR No. 4</h3>
+			<br>
+			<h3>Secured an overall rank of 27 in BAJA SAE India.</h3>
+		</center>
+		</div>
+		<div class="mySlides" style="background-image:url(img/modal_bg1.jpg)">
+		  <div class="numbertext">5 / 6</div>
+		  <img src="img/7.jpg" style="display:block;margin: auto;width:auto;height:30vw;">
+		  <center>
+			<h3>BMR No. 8</h3>
+			<br>
+			<h3>Secured 4th rank overall in Virtuals event held at Christ University.</h3>
+			</center>
+		</div>
+		<div class="mySlides" style="background-image:url(img/modal_bg1.jpg)">
+		  <div class="numbertext">6 / 6</div>
+		  <img src="img/8.png" style="display:block;margin: auto;width:auto;height:30vw;">
+		  <center>
+			<h3>BMR No. 9</h3>
+			<br>
+			<h3>Secured an overall rank of 25 in BAJA SAE India 2018.</h3>
+			</center>
+		</div>
+
+		<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+		<a class="next" onclick="plusSlides(1)">&#10095;</a>
+		
+	  </div>
+</div>
+
+  
+		
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+function openModal() {
+  document.getElementById('myModal').style.display = "block";
+  
+}
+
+function closeModal() {
+  document.getElementById('myModal').style.display = "none";
+}
+
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  //var dots = document.getElementsByClassName("demo");
+  var captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  /*for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }*/
+  slides[slideIndex-1].style.display = "block";
+  //dots[slideIndex-1].className += " active";
+  //captionText.innerHTML = dots[slideIndex-1].alt;
+}
+
+$(document).keydown(function(event) { 
+
+    if (event.keyCode == 27) { 
+       $('#myModal').hide();
+	   $('#accessibility-modal').hide();
+       $('#hospitality-modal').hide();
+       $('#privacy-modal').hide();
+       $('#faq-modal').hide();
+    }
+	else if (event.keyCode == 37) { 
+       plusSlides(-1);
+    }
+	else if (event.keyCode == 39) { 
+       plusSlides(1);
+    }
+	
+});
+</script>
