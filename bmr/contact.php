@@ -34,7 +34,7 @@
   <!-- Responsive Stylesheet File -->
   <link href="css/responsive.css" rel="stylesheet">
   
-  
+  <link rel="stylesheet" href="css/sweetalert.css" rel="stylesheet">
 
  </head>
  <body>
@@ -157,7 +157,7 @@
 					            <div id="sendmessage">Your message has been sent. Thank you!</div>
 					            <div id="errormessage"></div>
               					
-				              <form action="" method="post" role="form" class="contactForm">
+				              <form id="feedback_form" action="" method="post" role="form" class="contactForm">
 				                <div class="form-group">
 				                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
 				                  <div class="validation"></div>
@@ -167,11 +167,11 @@
 				                  <div class="validation"></div>
 				                </div>
 				                <div class="form-group">
-				                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+				                  <input type="number" class="form-control" name="contact" id="contact" placeholder="Your contact no." data-rule="minlen:10" data-msg="Please enter a valid phone number" />
 				                  <div class="validation"></div>
 				                </div>
 				                <div class="form-group">
-				                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Description"></textarea>
+				                  <textarea class="form-control" name="message" id="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Description"></textarea>
 				                  <div class="validation"></div>
 				                </div>
 				                <div class="text-center"><button type="submit" class="btn btn-primary">Send Message</button></div>
@@ -201,16 +201,51 @@
 	  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8HeI8o-c1NppZA-92oYlXakhDPYR7XMY"></script>
 
 	  <!-- Contact Form JavaScript File -->
-	  <script src="contactform/contactform.js"></script>
+	  <!--<script src="contactform/contactform.js"></script>-->
 
 	  <script src="js/main.js"></script>
-	  
+	  <script type="text/javascript" src="js/sweetalert.min.js" type="text/javascript"></script>
 	  
 
 	  <?php 
         include_once 'footer.php';
         ?>
 		
+			<script type="text/javascript">
+
+                                    $(document).ready(function (e) {
+                                            $("#feedback_form").on('submit',(function(e) {
+                                            e.preventDefault();
+                                            $.ajax({
+                                                url: "feedback_ajax.php", // Url to which the request is send
+                                                type: "POST",             // Type of request to be send, called as method
+                                                data: new FormData(this), // Data sent to server, a set of key/value pairs (i.e. form fields and values)
+                                                contentType: false,       // The content type used when sending data to the server.
+                                                cache: false,             // To unable request pages to be cached
+                                                processData:false,        // To send DOMDocument or non processed data file it is set to false
+                                                success: function(data){
+                                                    if(data==1)
+                                                    {
+                                                        swal("Great! Feedback submitted successfully :)");
+														$("#feedback_form").trigger("reset");
+														//console.log(data);
+                                                    }
+                                                    else
+                                                    {
+                                                        swal(data);
+														console.log(data);
+                                                    }
+                                                },
+                                                error: function(a) {
+													swal(a);
+                                               
+                                                }
+                                            });
+                                            }));
+                                    });
+
+            </script>
+			
 </body>
 
 </html>
